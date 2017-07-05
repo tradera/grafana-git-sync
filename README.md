@@ -1,5 +1,5 @@
 A docker image that syncs grafana dashboards, datasources and organizations to a git repository using [wizzy](https://utkarshcmu.github.io/wizzy-site/home/).
-
+ 
 ## Usage
 
 ```bash
