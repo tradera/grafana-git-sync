@@ -18,6 +18,10 @@ rm -rf dashboards/*.json
 rm -rf datasources/*.json
 rm -rf orgs/*.json
 
+git rm dashboards/\*.json
+git rm datasources/\*.json
+git rm orgs/\*.json
+
 wizzy import dashboards
 wizzy import datasources
 wizzy import orgs
